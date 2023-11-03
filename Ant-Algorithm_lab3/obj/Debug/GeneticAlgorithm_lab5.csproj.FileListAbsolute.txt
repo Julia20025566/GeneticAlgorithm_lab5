@@ -1,0 +1,41 @@
+C:\Users\Анюта\source\repos\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\bin\Debug\GeneticAlgorithm_lab5.exe.config
+C:\Users\Анюта\source\repos\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\bin\Debug\GeneticAlgorithm_lab5.exe
+C:\Users\Анюта\source\repos\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\bin\Debug\GeneticAlgorithm_lab5.pdb
+C:\Users\Анюта\source\repos\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\obj\Debug\Ant_Algorithm_lab3.MainForm.resources
+C:\Users\Анюта\source\repos\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\obj\Debug\GeneticAlgorithm_lab5.Properties.Resources.resources
+C:\Users\Анюта\source\repos\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\obj\Debug\GeneticAlgorithm_lab5.csproj.GenerateResource.cache
+C:\Users\Анюта\source\repos\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\obj\Debug\GeneticAlgorithm_lab5.csproj.CoreCompileInputs.cache
+C:\Users\Анюта\source\repos\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\obj\Debug\GeneticAlgorithm_lab5.exe
+C:\Users\Анюта\source\repos\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\obj\Debug\GeneticAlgorithm_lab5.pdb
+C:\Users\Анюта\source\repos\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\obj\Debug\GeneticAlgorithm_lab5.csprojAssemblyReference.cache
+C:\Users\юзер\Downloads\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\bin\Debug\GeneticAlgorithm_lab5.exe.config
+C:\Users\юзер\Downloads\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\bin\Debug\GeneticAlgorithm_lab5.exe
+C:\Users\юзер\Downloads\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\bin\Debug\GeneticAlgorithm_lab5.pdb
+C:\Users\юзер\Downloads\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\obj\Debug\GeneticAlgorithm_lab5.csproj.AssemblyReference.cache
+C:\Users\юзер\Downloads\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\obj\Debug\Ant_Algorithm_lab3.MainForm.resources
+C:\Users\юзер\Downloads\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\obj\Debug\GeneticAlgorithm_lab5.Properties.Resources.resources
+C:\Users\юзер\Downloads\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\obj\Debug\GeneticAlgorithm_lab5.csproj.GenerateResource.cache
+C:\Users\юзер\Downloads\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\obj\Debug\GeneticAlgorithm_lab5.csproj.CoreCompileInputs.cache
+C:\Users\юзер\Downloads\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\obj\Debug\GeneticAlgorithm_lab5.exe
+C:\Users\юзер\Downloads\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\obj\Debug\GeneticAlgorithm_lab5.pdb
+E:\Institute\CII\СИИ\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\bin\Debug\GeneticAlgorithm_lab5.exe.config
+E:\Institute\CII\СИИ\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\bin\Debug\GeneticAlgorithm_lab5.exe
+E:\Institute\CII\СИИ\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\bin\Debug\GeneticAlgorithm_lab5.pdb
+E:\Institute\CII\СИИ\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\obj\Debug\GeneticAlgorithm_lab5.csproj.AssemblyReference.cache
+E:\Institute\CII\СИИ\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\obj\Debug\Ant_Algorithm_lab3.MainForm.resources
+E:\Institute\CII\СИИ\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\obj\Debug\GeneticAlgorithm_lab5.Properties.Resources.resources
+E:\Institute\CII\СИИ\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\obj\Debug\GeneticAlgorithm_lab5.csproj.GenerateResource.cache
+E:\Institute\CII\СИИ\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\obj\Debug\GeneticAlgorithm_lab5.csproj.CoreCompileInputs.cache
+E:\Institute\CII\СИИ\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\obj\Debug\GeneticAlgorithm_lab5.exe
+E:\Institute\CII\СИИ\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\obj\Debug\GeneticAlgorithm_lab5.pdb
+D:\4 КУРС\CII\СИИ\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\bin\Debug\GeneticAlgorithm_lab5.exe.config
+D:\4 КУРС\CII\СИИ\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\bin\Debug\GeneticAlgorithm_lab5.exe
+D:\4 КУРС\CII\СИИ\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\bin\Debug\GeneticAlgorithm_lab5.pdb
+D:\4 КУРС\CII\СИИ\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\obj\Debug\GeneticAlgorithm_lab5.csproj.AssemblyReference.cache
+D:\4 КУРС\CII\СИИ\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\obj\Debug\Ant_Algorithm_lab3.MainForm.resources
+D:\4 КУРС\CII\СИИ\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\obj\Debug\GeneticAlgorithm_lab5.Properties.Resources.resources
+D:\4 КУРС\CII\СИИ\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\obj\Debug\GeneticAlgorithm_lab5.csproj.GenerateResource.cache
+D:\4 КУРС\CII\СИИ\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\obj\Debug\GeneticAlgorithm_lab5.csproj.CoreCompileInputs.cache
+D:\4 КУРС\CII\СИИ\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\obj\Debug\GeneticAlgorithm_lab5.exe
+D:\4 КУРС\CII\СИИ\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\obj\Debug\GeneticAlgorithm_lab5.pdb
+D:\4 КУРС\CII\СИИ\GeneticAlgorithm_lab5\Ant-Algorithm_lab3\obj\Debug\GeneticAlgorithm_lab5.csproj.SuggestedBindingRedirects.cache
